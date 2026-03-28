@@ -1,0 +1,7 @@
+{
+  "name": "AgroGuard AI",
+  "description": "Instant crop disease identification and pesticide recommendations for farmers worldwide. No signup required.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
